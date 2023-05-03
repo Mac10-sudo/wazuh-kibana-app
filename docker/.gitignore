@@ -1,0 +1,6 @@
+*.zip
+*.deb
+*.rpm
+
+# Mac files
+.DS_Store
